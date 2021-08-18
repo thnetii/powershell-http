@@ -7,7 +7,7 @@ updates:
   directory:          "/"
   schedule:
     interval:         "daily"
-  assignees:
+  reviewers:
     - "fredrikhr"
 # update marker:   end {5C7FB3C3-F874-4239-BED0-8F2378227C04}
 # update marker: begin {3B97A1F7-ABCD-4B65-A500-C5433E05C626}
@@ -15,6 +15,6 @@ updates:
   directory:          "/"
   schedule:
     interval:         "daily"
-  assignees:
+  reviewers:
     - "fredrikhr"
 # update marker:   end {3B97A1F7-ABCD-4B65-A500-C5433E05C626}
