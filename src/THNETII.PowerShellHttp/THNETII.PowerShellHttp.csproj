@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="PowerShellStandard.Library">
-      <Version>5.1.0</Version>
+      <Version>5.1.1</Version>
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
   </ItemGroup>
